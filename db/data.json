@@ -1,0 +1,10 @@
+{"name": "fido", "age": 3, "gender": "male", "species": "dog", "photo": "dog.png"}
+{"name": "spot", "age": 2, "gender": "male", "species": "pig", "photo":"pig.png"}
+{"name": "jake", "age": 1, "gender": "male", "species": "cat", "photo":"cat.png"}
+{"name": "susie", "age": 5, "gender": "female", "species": "pig", "photo":"pig.png"}
+{"name": "luke", "age": 7, "gender": "male", "species": "cat", "photo":"cat.png"}
+{"name": "george", "age": 1, "gender": "male", "species": "dog","photo": "dog.png"}
+{"name": "jessica", "age": 4, "gender": "female", "species": "cat", "photo":"cat.png"}
+{"name": "milo", "age": 6, "gender": "male", "species": "dog", "photo": "dog.png"}
+{"name": "sherman", "age": 7, "gender": "male", "species": "pig","photo":"pig.png"}
+{"name": "larry", "age": 10, "gender": "male", "species": "pig", "photo": "pig.png"}

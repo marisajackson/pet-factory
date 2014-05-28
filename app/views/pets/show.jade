@@ -1,0 +1,9 @@
+extends ../shared/template
+
+block content
+  .solopet
+    img#solo(src='/img/#{pet.photo}')
+    .stats
+      .name Name: #{pet.name}
+      .age Age: #{pet.age}
+      .gender Gender: #{pet.gender}

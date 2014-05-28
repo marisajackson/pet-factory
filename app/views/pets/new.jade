@@ -1,0 +1,18 @@
+extends ../shared/template
+
+block content
+
+  h1#new New Pet
+
+  form#newpet(method='POST', action='/pets')
+    input(name='name', type='text', placeholder='name')
+    select(name='gender')
+      option Select Gender
+      option Male
+      option Female
+    input(name='age', type='text', placeholder='age')
+    select(name='species')
+      option Dog
+      option Cat
+      option Pig
+    button Add
